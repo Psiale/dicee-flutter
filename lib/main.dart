@@ -6,10 +6,14 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.amber,
+        backgroundColor: Colors.blueGrey[800],
         appBar: AppBar(
-          title: Text('Dicee'),
-          backgroundColor: Colors.amberAccent,
+          title: Center(
+              child: Text(
+            'Dicee',
+            style: TextStyle(fontSize: 20.0),
+          )),
+          backgroundColor: Colors.blueGrey,
         ),
         body: DicePage(),
       ),
