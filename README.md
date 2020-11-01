@@ -1,31 +1,44 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# 🎲🎲 DiceeRoller - Flutter
+
+## Preview
+
+![App Preview](./images/app-preview.gif)
 
 
-# Dicee 🎲
+This project is part of a series of projects to be completed by students of the [AppBrewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart) flutter course.
 
-## Our Goal
+This project focuses on creating a random dicee roller with the power of fluter's stateful widgets.
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+## 🧮 The Project Brief
 
+The premise of this project is to learn the basic use of StatefulWidgets to update the state of an app and reflect the changes on the UI.
 
-## What you will create
+## 🧬 Technologies & Languages Used
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
+- Dart
+- Flutter
+- Github
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+## 🛎️ Contributions, Issues & Forking
 
-## What you will learn
+If you have any issues setting up the project or you come across any unintended bugs or problems, please do submit an issue to the [Dice Roller](https://github.com/Psiale/dicee-flutter/issues) page.
 
-- How to use Flutter stateless widgets to design the user interface.
-- How to use Flutter stateful widgets to update the user interface.
-- How to change the properties of various widgets.
-- How to use onPressed listeners to detect when buttons are pressed.
-- How to use setState to mark the widget tree as dirty and requiring update on the next render.
-- How to use Expanded to make widgets adapt to screen dimensions.
-- Understand and use string interpolation.
-- Learn about basic dart programming concepts such as data types and functions.
-- Code and use gesture controls.
+If you want to make your own changes, modifications or improvements to our project, go ahead and Fork it!
+1. [Fork it](https://github.com/Psiale/dicee-flutter/fork)
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+2. Create your working branch (git checkout -b [choose-a-name])
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+3. Commit your changes (git commit -m 'what this commit will fix/add/improve')
+4. Push to the branch (git push origin [chosen-name])
+5. Create a new Pull Request
+
+## 🤟🏽😄 😛🤙🏾  Creator
+
+Alexis Sanchez 
+- [Github](https://github.com/Psiale)
+- [Linkedin](https://www.linkedin.com/in/alexis-sanchez-dev/)
+
+## 🙌🏾 Show Your Support
+
+Give a ⭐️ if you like this project!
+
