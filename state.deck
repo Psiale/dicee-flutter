@@ -1,0 +1,22 @@
+{
+  "title": "State",
+  "dateAdded": "2020-11-01T20:39:33.737Z",
+  "cards": [
+    {
+      "body": "What does the build method?\n---\nIt re builds the widget tree ",
+      "dateAdded": "2020-11-01T20:39:33.737Z"
+    },
+    {
+      "body": "How do you make a stateful widget?\n---\nBy extending the stateful class",
+      "dateAdded": "2020-11-01T20:40:09.822Z"
+    },
+    {
+      "body": "How do you make a widget able to change it state?\n---\nBy putting the widget inside the state class of the statefull widget",
+      "dateAdded": "2020-11-01T20:41:10.163Z"
+    },
+    {
+      "body": "what does setState do?\n---\nIt marks as dirty any value you add inside of it, and recalls the build method, when the build method triggers, checks for any dirty value and updates the state of that value and all the places where that value is being use.",
+      "dateAdded": "2020-11-01T20:41:50.733Z"
+    }
+  ]
+}
