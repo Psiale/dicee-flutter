@@ -64,7 +64,7 @@ class _DicePageState extends State<DicePage> {
   int randomDieNumber() {
     final _random = new Random();
     final _min = 1;
-    final _max = 6;
+    final _max = 7;
     return _min + _random.nextInt(_max - _min);
   }
 }
